@@ -1,0 +1,10 @@
+Post 1: Things that can get tourists in trouble abroad
+Channel: Instagram carousel
+Profile: @thevisaorchestrator
+Size: 1080 x 1350 (4:5)
+
+1. Upload the PNG files in filename order: 01.png, 02.png, …
+2. Paste caption.txt into Buffer's caption field.
+3. Paste hashtags.txt into Buffer's hashtag field.
+4. Do not put hashtags in the caption.
+5. Do not rewrite the caption or add extra hashtags.

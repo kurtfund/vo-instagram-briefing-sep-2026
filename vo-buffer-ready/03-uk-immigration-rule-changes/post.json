@@ -1,0 +1,52 @@
+{
+  "order": 3,
+  "id": "03-uk-immigration-rule-changes",
+  "title": "5 UK immigration rule changes from October 2026",
+  "channel": "instagram",
+  "profile": "@thevisaorchestrator",
+  "postType": "carousel",
+  "aspectRatio": "4:5",
+  "width": 1080,
+  "height": 1350,
+  "slides": [
+    {
+      "file": "01.png",
+      "order": 1,
+      "label": "Cover"
+    },
+    {
+      "file": "02.png",
+      "order": 2,
+      "label": "Skilled Worker"
+    },
+    {
+      "file": "03.png",
+      "order": 3,
+      "label": "Domestic Abuse"
+    },
+    {
+      "file": "04.png",
+      "order": 4,
+      "label": "Erasmus"
+    },
+    {
+      "file": "05.png",
+      "order": 5,
+      "label": "Breaches"
+    },
+    {
+      "file": "06.png",
+      "order": 6,
+      "label": "Key dates"
+    }
+  ],
+  "captionFile": "caption.txt",
+  "hashtagsFile": "hashtags.txt",
+  "caption": "The UK is introducing several immigration rule changes from October 2026 \u2014 on different dates.\n\nEligible Skilled Worker visa holders who are recognised victims of modern slavery can, with a positive Conclusive Grounds decision, work for another employer for the remainder of their current permission.\n\nThe Victim of Domestic Abuse route is expanding to cover certain adult dependent children.\n\nVisitor, Student and Child Student rules are being updated to support the UK\u2019s participation in Erasmus+. This is not a new Student visa route.\n\nSuitability rules are being clarified around immigration breaches, including absconding and failing to report while on immigration bail.\n\nKey dates:\n8 October 2026 \u2014 most changes under HC 584\n29 October 2026 \u2014 certain religious worker route changes\n30 November 2026 \u2014 Student visa maintenance funds increase\n9 December 2026 \u2014 certain EU Settlement Scheme biometric changes\n\nAlways check the latest GOV.UK guidance before you act.\n\nYou conduct. We orchestrate.\n@thevisaorchestrator",
+  "hashtags": "#TheVisaOrchestrator #GlobalMobility #VisaOrchestrator",
+  "buffer": {
+    "pasteCaptionSeparatelyFromHashtags": true,
+    "uploadSlidesInFilenameOrder": true,
+    "doNotRewriteCaption": true
+  }
+}

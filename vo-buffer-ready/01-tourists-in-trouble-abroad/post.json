@@ -1,0 +1,82 @@
+{
+  "order": 1,
+  "id": "01-tourists-in-trouble-abroad",
+  "title": "Things that can get tourists in trouble abroad",
+  "channel": "instagram",
+  "profile": "@thevisaorchestrator",
+  "postType": "carousel",
+  "aspectRatio": "4:5",
+  "width": 1080,
+  "height": 1350,
+  "slides": [
+    {
+      "file": "01.png",
+      "order": 1,
+      "label": "Cover"
+    },
+    {
+      "file": "02.png",
+      "order": 2,
+      "label": "Medication"
+    },
+    {
+      "file": "03.png",
+      "order": 3,
+      "label": "Photography"
+    },
+    {
+      "file": "04.png",
+      "order": 4,
+      "label": "Food"
+    },
+    {
+      "file": "05.png",
+      "order": 5,
+      "label": "Work"
+    },
+    {
+      "file": "06.png",
+      "order": 6,
+      "label": "Dress"
+    },
+    {
+      "file": "07.png",
+      "order": 7,
+      "label": "Scooter"
+    },
+    {
+      "file": "08.png",
+      "order": 8,
+      "label": "Passport"
+    },
+    {
+      "file": "09.png",
+      "order": 9,
+      "label": "Drones"
+    },
+    {
+      "file": "10.png",
+      "order": 10,
+      "label": "Behaviour"
+    },
+    {
+      "file": "11.png",
+      "order": 11,
+      "label": "Souvenirs"
+    },
+    {
+      "file": "12.png",
+      "order": 12,
+      "label": "Close"
+    }
+  ],
+  "captionFile": "caption.txt",
+  "hashtagsFile": "hashtags.txt",
+  "caption": "One of the easiest mistakes to make abroad is assuming the rules are the same as home.\n\nThey're not.\n\nSomething as ordinary as carrying medication, photographing a building, flying a drone, bringing food through customs or taking a souvenir home can be subject to completely different rules depending on where you are.\n\nAnd the consequences can range from a fine or confiscation to much more serious legal trouble.\n\nYou conduct. We orchestrate.\n@thevisaorchestrator",
+  "hashtags": "#TheVisaOrchestrator #GlobalMobility #VisaOrchestrator",
+  "buffer": {
+    "pasteCaptionSeparatelyFromHashtags": true,
+    "uploadSlidesInFilenameOrder": true,
+    "doNotRewriteCaption": true
+  }
+}

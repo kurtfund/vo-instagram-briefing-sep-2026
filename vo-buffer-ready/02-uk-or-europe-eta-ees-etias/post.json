@@ -1,0 +1,57 @@
+{
+  "order": 2,
+  "id": "02-uk-or-europe-eta-ees-etias",
+  "title": "UK or Europe? ETA \u00b7 EES \u00b7 ETIAS",
+  "channel": "instagram",
+  "profile": "@thevisaorchestrator",
+  "postType": "carousel",
+  "aspectRatio": "4:5",
+  "width": 1080,
+  "height": 1350,
+  "slides": [
+    {
+      "file": "01.png",
+      "order": 1,
+      "label": "Cover"
+    },
+    {
+      "file": "02.png",
+      "order": 2,
+      "label": "UK ETA"
+    },
+    {
+      "file": "03.png",
+      "order": 3,
+      "label": "EES"
+    },
+    {
+      "file": "04.png",
+      "order": 4,
+      "label": "ETIAS"
+    },
+    {
+      "file": "05.png",
+      "order": 5,
+      "label": "September"
+    },
+    {
+      "file": "06.png",
+      "order": 6,
+      "label": "Wait times"
+    },
+    {
+      "file": "07.png",
+      "order": 7,
+      "label": "Fast track"
+    }
+  ],
+  "captionFile": "caption.txt",
+  "hashtagsFile": "hashtags.txt",
+  "caption": "Europe travel has changed.\n\nUK: you need an ETA before you fly. It is linked to your passport, costs about \u20ac20, and is valid for up to 2 years. Do this before you travel.\n\nSchengen: EES is at the border. Face, fingerprint, passport. There is no application. Your entry and exit are recorded digitally.\n\nETIAS is not operational as of September 2026. Do not pay anyone for one yet.\n\nTemporary congestion measures ended 6 September. Allow extra connection time. Frankfurt, Amsterdam, Munich, Lisbon, Milan and Marseille have seen long waits. Your first Schengen airport matters.\n\nFast Track or Meet & Greet may shorten the queue. You still complete EES.\n\nYou conduct. We orchestrate.\n@thevisaorchestrator",
+  "hashtags": "#TheVisaOrchestrator #GlobalMobility #VisaOrchestrator",
+  "buffer": {
+    "pasteCaptionSeparatelyFromHashtags": true,
+    "uploadSlidesInFilenameOrder": true,
+    "doNotRewriteCaption": true
+  }
+}

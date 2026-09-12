@@ -1,0 +1,52 @@
+{
+  "order": 4,
+  "id": "04-ees-vs-etias",
+  "title": "EES vs. ETIAS",
+  "channel": "instagram",
+  "profile": "@thevisaorchestrator",
+  "postType": "carousel",
+  "aspectRatio": "4:5",
+  "width": 1080,
+  "height": 1350,
+  "slides": [
+    {
+      "file": "01.png",
+      "order": 1,
+      "label": "Cover"
+    },
+    {
+      "file": "02.png",
+      "order": 2,
+      "label": "EES live"
+    },
+    {
+      "file": "03.png",
+      "order": 3,
+      "label": "EES action"
+    },
+    {
+      "file": "04.png",
+      "order": 4,
+      "label": "ETIAS different"
+    },
+    {
+      "file": "05.png",
+      "order": 5,
+      "label": "ETIAS timing"
+    },
+    {
+      "file": "06.png",
+      "order": 6,
+      "label": "Keep"
+    }
+  ],
+  "captionFile": "caption.txt",
+  "hashtagsFile": "hashtags.txt",
+  "caption": "Europe\u2019s entry rules are changing \u2014 and EES and ETIAS are not the same thing.\n\nEES is already here. It is Europe\u2019s digital border system for non-EU travellers on short stays. Passport, face and fingerprints are recorded at the border instead of stamps. There is no EES application to buy before you travel.\n\nETIAS is different. It will be a pre-travel authorisation for travellers from visa-exempt countries. It is not a visa. You do not need to apply for ETIAS right now. Official EU guidance currently points to a 2027 launch, with several months\u2019 notice before it starts.\n\nSave this before your next trip.\n\nYou conduct. We orchestrate.\n@thevisaorchestrator",
+  "hashtags": "#TheVisaOrchestrator #GlobalMobility #VisaOrchestrator",
+  "buffer": {
+    "pasteCaptionSeparatelyFromHashtags": true,
+    "uploadSlidesInFilenameOrder": true,
+    "doNotRewriteCaption": true
+  }
+}
